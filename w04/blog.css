@@ -1,0 +1,9 @@
+body{
+    border: 20px solid #396faf;
+    margin: 20px auto;
+    width: 80%;
+    padding:20px;
+    font-family: 'Source Sans Pro',sans-serif;
+    max-width:700px;
+    font-size: 16PX;
+}
