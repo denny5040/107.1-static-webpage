@@ -17,3 +17,7 @@ Week 4
 * blog(1).html
 * blog.css
 * profile.html
+
+Week 5
+* imagegallery.html
+* pet.html
