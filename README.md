@@ -20,4 +20,6 @@ Week 4
 
 Week 5
 * imagegallery.html
+
+Week 6
 * pet.html
