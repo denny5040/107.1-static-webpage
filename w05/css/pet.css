@@ -6,6 +6,8 @@ header{
     width: 800px;
     height: 80px;
     background-color:#330000;
+    text-align: left;
+    padding-top: 10px;
 }
 h1#text1{
     position: absolute;
@@ -29,6 +31,7 @@ article{
     width: 628px;
     height: 400px;
     margin-left: 171px;
+    background-color: white
 }
 footer{
     width: 800px;
@@ -36,13 +39,14 @@ footer{
     background-color:#330000;
     color: #FFFFFF;
     text-align: center;
+    clear: both
     line-height: 50px;
 }
 nav{
     margin-top: 170px;
 }
 nav ul{
-    padding:0px;
+    padding:10px;
     list-style: none;
 }
 nav ul li a{
@@ -59,13 +63,13 @@ nav ul li a:hover{
 }
 img{
     width: 120px;
-    margin: 3px;
-    border-radius: 20px;
+    padding: 15px;
+    border-radius: 5px;
 }
 .consection{
     width: 400px;
     margin: 0px auto;
-    padding: 20px;
+    padding: 30px;
 }
 fieldset{
     border-radius: 10px;
