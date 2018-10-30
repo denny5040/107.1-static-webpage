@@ -25,5 +25,5 @@ Week 6
 * pet.html
 
 Week 7
-*TKU Assignments.html
-*galleryTemplate.html
+* TKU Assignments.html
+* galleryTemplate.html
